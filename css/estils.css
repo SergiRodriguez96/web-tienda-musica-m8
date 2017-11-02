@@ -1,0 +1,42 @@
+fieldset {
+  padding: 2px;
+  font:100%/1 sans-serif;
+  border: solid;
+  background-color: #000000;
+  color: #FFFFFF;
+  }
+
+  input[type=submit]{
+      background-color: #878787;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+  }
+
+
+  ul {
+      list-style-type: none;
+      margin: 1000;
+      padding: 1000;
+      overflow: hidden;
+      background-color: #000000;
+  }
+
+  li {
+      float: left;
+  }
+
+table {
+  margin:auto;
+text-align: center;
+width: 50%;
+}
+
+.ay {
+  margin: 10px 75px;
+  width: 100%;
+  color: #FFFFFF;
+}
