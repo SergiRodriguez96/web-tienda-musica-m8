@@ -1,3 +1,7 @@
+body {
+    background-image: url('imagenes/fondo.jpg');
+}
+
 fieldset {
   padding: 2px;
   font:100%/1 sans-serif;
@@ -14,6 +18,7 @@ fieldset {
       text-decoration: none;
       margin: 4px 2px;
       cursor: pointer;
+
   }
 
 
@@ -35,8 +40,7 @@ text-align: center;
 width: 50%;
 }
 
-.ay {
-  margin: 10px 75px;
-  width: 100%;
-  color: #FFFFFF;
+.row {
+text-align: center;
+
 }

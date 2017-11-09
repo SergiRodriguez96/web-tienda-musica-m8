@@ -124,7 +124,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #D3D3D3;
+  background-color: #848484;
+  background-image: url("/imagenes/fondo.jpg");
 }
 
 [tabindex="-1"]:focus {
@@ -673,6 +674,7 @@ pre code {
 }
 
 .row {
+  width: 100%;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;

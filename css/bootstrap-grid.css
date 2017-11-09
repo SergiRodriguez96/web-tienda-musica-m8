@@ -60,6 +60,7 @@ html {
 }
 
 .row {
+  width: 100%;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -138,9 +139,9 @@ html {
 }
 
 .col-6 {
-  -ms-flex: 0 0 50%;
-      flex: 0 0 50%;
-  max-width: 50%;
+  -ms-flex: 0 0 65%;
+      flex: 0 0 65%;
+  max-width: 65%;
 }
 
 .col-7 {
